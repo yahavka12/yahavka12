@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/yahavka12" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="https://dev.to/yahavka12" /></a>
-  <a href="https://medium.com/@yahavka12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yahavka12" height="30" width="40" /></a>
+  <a href="https://medium.com/@yahavka12" target="blank"><img align="center" src="https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png" alt="@yahavka12" height="50" width="50" /></a>
   <a href="https://www.linkedin.com/in/yahav-kadar/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/yahav-kadar/" /></a>
 </p>
 
