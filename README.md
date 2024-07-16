@@ -13,11 +13,8 @@
 
 - 📄 Know about my experiences [https://yahavka12.com/resume](https://yahavka12.com/resume)
 
-- ⚡ Fun fact **I think I am funny**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Hi](https://dev.to/yahavka12/hi-2n04)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
