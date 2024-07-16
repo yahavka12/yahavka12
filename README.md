@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/https://dev.to/yahavka12" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="https://dev.to/yahavka12" /></a>
-  <a href="https://medium.com/@yahavka12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yahavka12" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yahav-kadar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yahav-kadar/" height="30" width="40" /></a>
+  <a href="https://medium.com/@yahavka12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yahavka12" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yahav-kadar/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/yahav-kadar/" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
