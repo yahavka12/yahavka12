@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+  push:  # Triggers the workflow on every push to the repository
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
