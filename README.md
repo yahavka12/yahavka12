@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahav</h1>
-<h3 align="center">A passionate DevSecOps from Israel</h3>
+<h3 align="center">A passionate DevSecOps from Israel 🇮🇱</h3>
 
 - 🔭 I’m currently working on [GuardianOS](https://github.com/yahavka12/GuardianOS)
 
