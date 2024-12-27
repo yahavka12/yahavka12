@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hi!](https://medium.com/@yahavka12/hi-1938c5f6e1f8?source=rss-b8051f692da6------2)
 - [Hi](https://dev.to/yahavka12/hi-2n04)
 <!-- BLOG-POST-LIST:END -->
 
